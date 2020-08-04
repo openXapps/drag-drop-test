@@ -1,0 +1,10 @@
+// Customize Bootstrap here
+
+
+// Load Bootstrap module
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+// Custom CSS
+.my-draggable:hover {
+  cursor: move;
+};
